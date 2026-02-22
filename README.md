@@ -19,7 +19,7 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/AllyWalk/simple-article-listing]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: [LINK](https://github.com/AllyWalk/simple-article-listing/settings/pages)
 ---
 
 ## 📝 Reflexión
